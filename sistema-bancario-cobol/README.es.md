@@ -155,9 +155,9 @@ Este proyecto demuestra:
 ✨En búsqueda de oportunidades en el sector tecnológico  
 
 **Contacto:**
-- 💼 LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/estefaniazerimar)
-- 🌐 Portfolio: [tu-portfolio.com](https://diariohacking.com)
-- 💻 GitHub: [@tu-usuario](https://github.com/3stefani)
+- LinkedIn: [estefaniazerimar](https://www.linkedin.com/in/estefaniazerimar/)
+- Portfolio: [DiarioHacking](https://diariohacking.com/)
+- GitHub: [3stefani](https://github.com/3stefani)
 
 ## Licencia
 
