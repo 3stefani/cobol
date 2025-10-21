@@ -38,9 +38,9 @@ Type: CHECKING
 2
 --- CASH DEPOSIT ---
 Amount to deposit: 
-500.00
+100.00
 Operation completed successfully
-New balance: 1500.00 EUR
+New balance: 1100.00 EUR
 ```
 
 ## Technologies Used
@@ -106,10 +106,10 @@ sistema-bancario-cobol/
 ├── LICENSE                   # MIT License
 │
 └── screenshots/              # Screenshots
-    ├── menu-principal.png
-    ├── consulta-saldo.png
-    ├── ingreso.png
-    └── retirada.png
+    ├── menu-principal.jpg    # Main menu
+    ├── consulta-saldo.jpg    # Balance inquire
+    ├── ingreso.jpg           # Deposit
+    └── retirada.jpg          # Withdrawal
 ```
 
 ## Professional Application
