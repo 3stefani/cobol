@@ -93,7 +93,6 @@ Resources that helped me in this journey:
 
 ### Tutorials & Courses
 - [Tutorialspoint COBOL Tutorial](https://www.tutorialspoint.com/cobol/index.htm)
-- [Mainframe Guru](https://www.mainframegurukul.com/)
 - IBM Mainframe Documentation
 
 ### Community
