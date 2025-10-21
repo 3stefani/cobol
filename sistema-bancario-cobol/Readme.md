@@ -111,6 +111,31 @@ sistema-bancario-cobol/
     ├── ingreso.jpg           # Deposit
     └── retirada.jpg          # Withdrawal
 ```
+## COBOL Concepts Implemented
+
+### Program Divisions
+- **IDENTIFICATION DIVISION:** Program metadata
+- **ENVIRONMENT DIVISION:** Environment configuration
+- **DATA DIVISION:** Data structure definition
+- **PROCEDURE DIVISION:** Program logic
+
+### Data Types
+```cobol
+PIC 9(10)      - 10-digit integers
+PIC 9(7)V99    - Decimal numbers (7 integers + 2 decimals)
+PIC X(30)      - 30-character alphanumeric strings
+```
+
+### Control Flow
+- `PERFORM`: Procedure calls
+- `EVALUATE`: Multiple decision structure (similar to switch/case)
+- `IF-ELSE`: Conditionals
+- `UNTIL`: Loops with condition
+
+### Arithmetic Operations
+- `ADD ... TO`: Accumulative addition
+- `SUBTRACT ... FROM`: Subtraction
+- `MOVE`: Value assignment
 
 ## Professional Application
 
