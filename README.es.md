@@ -97,8 +97,6 @@ Recursos que me ayudaron en este camino:
 
 ### Comunidad
 - [GnuCOBOL en SourceForge](https://sourceforge.net/projects/gnucobol/)
-- Stack Overflow etiqueta COBOL
-- Reddit r/cobol
 
 ## Comenzar
 
