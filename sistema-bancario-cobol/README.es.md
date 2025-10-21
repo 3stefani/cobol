@@ -151,7 +151,7 @@ Este proyecto demuestra:
 **Estefanía Ramírez Martínez**
 
 ✨ Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones  
-✨En búsqueda de oportunidades en el sector tecnológico  
+✨ En búsqueda de oportunidades en el sector tecnológico  
 
 **Contacto:**
 - LinkedIn: [estefaniazerimar](https://www.linkedin.com/in/estefaniazerimar/)
