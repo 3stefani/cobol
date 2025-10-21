@@ -38,9 +38,9 @@ Tipo: CORRIENTE
 2
 --- INGRESO DE EFECTIVO ---
 Importe a ingresar: 
-500.00
+100.00
 Operacion realizada con exito
-Nuevo saldo: 1500.00 EUR
+Nuevo saldo: 1100.00 EUR
 ```
 
 ## Tecnologías Utilizadas
@@ -106,10 +106,10 @@ sistema-bancario-cobol/
 ├── LICENSE                   # Licencia MIT
 │
 └── screenshots/              # Capturas de pantalla
-    ├── menu-principal.png
-    ├── consulta-saldo.png
-    ├── ingreso.png
-    └── retirada.png
+    ├── menu-principal.jpg
+    ├── consulta-saldo.jpg
+    ├── ingreso.jpg
+    └── retirada.jpg
 ```
 
 ## Conceptos COBOL Implementados
