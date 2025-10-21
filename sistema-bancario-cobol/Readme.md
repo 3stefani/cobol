@@ -154,10 +154,9 @@ This project demonstrates:
 ✨Seeking opportunities in the technology sector  
 
 **Contact:**
-- 💼 LinkedIn: [your-linkedin-profile](https://[linkedin.com/in/estefaniazerimar])
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://diariohacking.com)
-- 💻 GitHub: [@your-username](https://github.com/3stefani)
+- 💼 LinkedIn: (https://[linkedin.com/in/estefaniazerimar])
+- 🌐 Portfolio: (https://diariohacking.com)
+- 💻 GitHub: (https://github.com/3stefani)
 
 ## 📄 License
 
