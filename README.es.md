@@ -173,8 +173,3 @@ Todos los proyectos en este repositorio están bajo la Licencia MIT a menos que 
 
 ---
 
-💼 **Desarrollado con genuino interés en tecnologías legacy y compromiso con el sector bancario.**
-
-🚀 **Abierta a oportunidades en desarrollo COBOL/Mainframe.**
-
-📈 **Aprendiendo constantemente y expandiendo este portfolio.**
