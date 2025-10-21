@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success)]()
 
-**Leer en otros idiomas:** [English](README.md)
+**Leer en otros idiomas:** [English](Readme.md)
 
 Aplicación de consola desarrollada en COBOL que simula operaciones bancarias básicas. Proyecto creado como parte de mi preparación para trabajar en el sector mainframe y tecnologías legacy.
 
