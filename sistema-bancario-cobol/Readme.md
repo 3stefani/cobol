@@ -103,7 +103,6 @@ sistema-bancario-cobol/
 ├── banco-simple.cob          # Main source code
 ├── README.md                 # This file (English)
 ├── README.es.md              # Spanish version
-├── LICENSE                   # MIT License
 │
 └── screenshots/              # Screenshots
     ├── menu-principal.jpg    # Main menu
