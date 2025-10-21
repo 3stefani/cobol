@@ -154,7 +154,7 @@ This project demonstrates:
 ✨Seeking opportunities in the technology sector  
 
 **Contact:**
-- LinkedIn: [estefaniazerimar](linkedin.com/in/estefaniazerimar)
+- LinkedIn: [estefaniazerimar](https://www.linkedin.com/in/estefaniazerimar/)
 - Portfolio: [DiarioHacking](https://diariohacking.com/)
 - GitHub: [3stefani](https://github.com/3stefani)
 
