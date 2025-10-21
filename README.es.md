@@ -30,7 +30,7 @@ Aplicación de consola que simula operaciones bancarias básicas incluyendo cons
 
 **Tecnologías:** COBOL (formato libre), GnuCOBOL 3.2
 
-**[Ver Proyecto →](sistema-bancario-cobol/)**
+**[Ver Proyecto →](sistema-bancario-cobol/README.es.md)**
 
 ---
 
